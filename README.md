@@ -16,7 +16,7 @@ Currently completing a BA in Economics at the University of Malawi. I specialize
 ---
 
 ### 📊 Cisco Analytics Mini Projects
-#### Analyzing Global Mental Health Trends(https://github.com/Levena-Nthanda/Globa-Mental-Health-Trends)
+### 1. Analyzing Global Mental Health Trends(https://github.com/Levena-Nthanda/Global-Mental-Health-Trends)
 **Tool:** R, Excel, SQL  
 **Summary:** In-progress coursework projects from Cisco’s Data Analytics Professional Certificate, including dashboarding and visualization with real-world datasets.  
 **Coming Soon:** Jupyter Notebooks with student budget analysis, health coverage estimates.

@@ -7,7 +7,7 @@ Currently completing a BA in Economics at the University of Malawi. I specialize
 
 ## 📂 Featured Projects
 
-### 🩺 Health Spending & Ageing in Malawi((https://github.com/Levena-Nthanda/bookish-potato)
+### 🩺 Health Spending & Ageing in Malawi(https://github.com/Levena-Nthanda/bookish-potato)
 **Tool:** Stata, R  
 **Summary:** My undergraduate dissertation uses Cragg’s Double Hurdle Model to estimate how age, proximity to death, and comorbidities affect health care expenditure.  
 **Output** Cleaned dataset, regression output, policy brief.
@@ -16,8 +16,8 @@ Currently completing a BA in Economics at the University of Malawi. I specialize
 ---
 
 ### 📊 Cisco Analytics Mini Projects
-**1.** Analyzing Global Mental Health Trends(https://github.com/Levena-Nthanda/Global Mental Health Trends)
-**Tool:** Python, Excel, SQL  
+#### Analyzing Global Mental Health Trends(https://github.com/Levena-Nthanda/Globa-Mental-Health-Trends)
+**Tool:** R, Excel, SQL  
 **Summary:** In-progress coursework projects from Cisco’s Data Analytics Professional Certificate, including dashboarding and visualization with real-world datasets.  
 **Coming Soon:** Jupyter Notebooks with student budget analysis, health coverage estimates.
 

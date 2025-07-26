@@ -10,11 +10,13 @@ Currently completing a BA in Economics at the University of Malawi. I specialize
 ### 🩺 Health Spending & Ageing in Malawi
 **Tool:** Stata, R  
 **Summary:** My undergraduate dissertation uses Cragg’s Double Hurdle Model to estimate how age, proximity to death, and comorbidities affect health care expenditure.  
-**Coming Soon:** Cleaned dataset, regression output, policy brief.
+**Output** Cleaned dataset, regression output, policy brief.
+
 
 ---
 
 ### 📊 Cisco Analytics Mini Projects
+1. Analyzing Global Mental Health Trends
 **Tool:** Python, Excel, SQL  
 **Summary:** In-progress coursework projects from Cisco’s Data Analytics Professional Certificate, including dashboarding and visualization with real-world datasets.  
 **Coming Soon:** Jupyter Notebooks with student budget analysis, health coverage estimates.
